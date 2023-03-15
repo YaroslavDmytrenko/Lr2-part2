@@ -1,0 +1,16 @@
+F:\Vs\Source\Lr2\Lr2\bin\Debug\net6.0\Lr2.exe
+F:\Vs\Source\Lr2\Lr2\bin\Debug\net6.0\Lr2.deps.json
+F:\Vs\Source\Lr2\Lr2\bin\Debug\net6.0\Lr2.runtimeconfig.json
+F:\Vs\Source\Lr2\Lr2\bin\Debug\net6.0\Lr2.dll
+F:\Vs\Source\Lr2\Lr2\bin\Debug\net6.0\Lr2.pdb
+F:\Vs\Source\Lr2\Lr2\obj\Debug\net6.0\Lr2.csproj.AssemblyReference.cache
+F:\Vs\Source\Lr2\Lr2\obj\Debug\net6.0\Lr2.GeneratedMSBuildEditorConfig.editorconfig
+F:\Vs\Source\Lr2\Lr2\obj\Debug\net6.0\Lr2.AssemblyInfoInputs.cache
+F:\Vs\Source\Lr2\Lr2\obj\Debug\net6.0\Lr2.AssemblyInfo.cs
+F:\Vs\Source\Lr2\Lr2\obj\Debug\net6.0\Lr2.csproj.CoreCompileInputs.cache
+F:\Vs\Source\Lr2\Lr2\obj\Debug\net6.0\Lr2.dll
+F:\Vs\Source\Lr2\Lr2\obj\Debug\net6.0\refint\Lr2.dll
+F:\Vs\Source\Lr2\Lr2\obj\Debug\net6.0\Lr2.pdb
+F:\Vs\Source\Lr2\Lr2\obj\Debug\net6.0\Lr2.genruntimeconfig.cache
+F:\Vs\Source\Lr2\Lr2\obj\Debug\net6.0\ref\Lr2.dll
+F:\Vs\Source\Lr2\Lr2\bin\Debug\net6.0\file.txt

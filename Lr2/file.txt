@@ -1,0 +1,6 @@
+Name,Exporting Country,Category,Price
+Orange,Spain,Fruits,2
+Milk 2%,Ukraine,Dairy Products,1
+Cheddar Cheese,USA,Cheese,3
+Spaghetti,Italy,Pasta,2
+Chicken Breasts,Brazil,Meat,6

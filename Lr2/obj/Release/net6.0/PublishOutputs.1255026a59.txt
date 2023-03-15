@@ -1,0 +1,5 @@
+F:\Vs\Source\Lr2\Lr2\bin\Release\net6.0\publish\Lr2.exe
+F:\Vs\Source\Lr2\Lr2\bin\Release\net6.0\publish\Lr2.dll
+F:\Vs\Source\Lr2\Lr2\bin\Release\net6.0\publish\Lr2.deps.json
+F:\Vs\Source\Lr2\Lr2\bin\Release\net6.0\publish\Lr2.runtimeconfig.json
+F:\Vs\Source\Lr2\Lr2\bin\Release\net6.0\publish\Lr2.pdb
